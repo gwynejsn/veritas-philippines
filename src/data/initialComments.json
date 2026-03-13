@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1",
+    "articleSlug": "10k-student-subsidy-eo",
+    "user": "Juan Dela Cruz",
+    "text": "Napaka-importante nito. Kailangan nating makita ang transparency kung paano hinahati ang mga pondong ito.",
+    "time": "2 oras ang nakalipas",
+    "likes": 24,
+    "replies": [
+      {
+        "id": "1-1",
+        "articleSlug": "10k-student-subsidy-eo",
+        "user": "Admin",
+        "text": "Sang-ayon kami. Transparency ang aming top priority.",
+        "time": "1 oras ang nakalipas",
+        "likes": 5
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "articleSlug": "10k-student-subsidy-eo",
+    "user": "Maria Clara",
+    "text": "Sa wakas! Malaking tulong ito sa maraming estudyante na nahihirapan sa tuition fees.",
+    "time": "5 oras ang nakalipas",
+    "likes": 56
+  },
+  {
+    "id": "7",
+    "articleSlug": "weekend-lockdown-ncr-super-variant",
+    "user": "Dr. Santos",
+    "text": "Dapat tayong maging maingat. Ang kalusugan ay kayamanan.",
+    "time": "1 oras ang nakalipas",
+    "likes": 15
+  },
+  {
+    "id": "8",
+    "articleSlug": "15-per-liter-fuel-rollback",
+    "user": "Driver Juan",
+    "text": "Salamat sa rollback! Malaking tulong ito sa aming pamilya.",
+    "time": "3 oras ang nakalipas",
+    "likes": 89
+  },
+  {
+    "id": "9",
+    "articleSlug": "tiktok-nationwide-ban-leaked-audio",
+    "user": "GenZ_User",
+    "text": "Huwag naman sana i-ban. Dito kami kumukuha ng entertainment.",
+    "time": "4 na oras ang nakalipas",
+    "likes": 34
+  },
+  {
+    "id": "10",
+    "articleSlug": "50-degree-heatwave-work-suspension",
+    "user": "Worker_Bee",
+    "text": "Masyadong mainit sa labas. Ingat po tayong lahat.",
+    "time": "2 oras ang nakalipas",
+    "likes": 21
+  },
+  {
+    "id": "11",
+    "articleSlug": "1-peso-digital-tax-social-media",
+    "user": "Netizen99",
+    "text": "Bakit pati comments may tax na? Sobra na ito.",
+    "time": "5 oras ang nakalipas",
+    "likes": 112
+  },
+  {
+    "id": "12",
+    "articleSlug": "free-lrt-mrt-2026",
+    "user": "Commuter_Life",
+    "text": "Sana totoo ito at hindi lang drawing.",
+    "time": "6 na oras ang nakalipas",
+    "likes": 45
+  },
+  {
+    "id": "13",
+    "articleSlug": "tallano-gold-education-grant",
+    "user": "Student_Hopeful",
+    "text": "Sana makasali ako sa scholarship na ito.",
+    "time": "1 oras ang nakalipas",
+    "likes": 12
+  },
+  {
+    "id": "14",
+    "articleSlug": "bank-stealing-fake-gov-app",
+    "user": "Cyber_Guard",
+    "text": "Mag-ingat sa mga links na pinipindot. Phishing is real.",
+    "time": "30 mins ang nakalipas",
+    "likes": 67
+  },
+  {
+    "id": "15",
+    "articleSlug": "famous-actor-wealth-leak",
+    "user": "Marites_Official",
+    "text": "Sino kaya itong aktor na ito? Hulaan na!",
+    "time": "10 mins ang nakalipas",
+    "likes": 156
+  },
+  {
+    "id": "16",
+    "articleSlug": "ai-future-human-creativity",
+    "user": "Artist_Soul",
+    "text": "AI can help but it can never replace human emotion.",
+    "time": "1 araw ang nakalipas",
+    "likes": 23
+  },
+  {
+    "id": "17",
+    "articleSlug": "reclaim-digital-commons",
+    "user": "Tech_Thinker",
+    "text": "We need to decentralize the web for a better future.",
+    "time": "2 araw ang nakalipas",
+    "likes": 9
+  },
+  {
+    "id": "18",
+    "articleSlug": "quantum-computing-cybersecurity",
+    "user": "IT_Pro",
+    "text": "Quantum computing is the next frontier. Exciting times.",
+    "time": "3 araw ang nakalipas",
+    "likes": 14
+  },
+  {
+    "id": "19",
+    "articleSlug": "bio-digital-interfaces-neuralink",
+    "user": "SciFi_Fan",
+    "text": "Cyberpunk is becoming a reality.",
+    "time": "4 na araw ang nakalipas",
+    "likes": 5
+  },
+  {
+    "id": "20",
+    "articleSlug": "myth-objective-news-algorithms",
+    "user": "Truth_Seeker",
+    "text": "Algorithms are the new editors. We must be aware.",
+    "time": "5 araw ang nakalipas",
+    "likes": 31
+  }
+]
