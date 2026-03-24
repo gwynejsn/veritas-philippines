@@ -1,6 +1,6 @@
 import { AnimatePresence, motion } from 'framer-motion';
 import { Globe, LogOut, Mail, Menu, Search, User, X } from 'lucide-react';
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { useApp } from '../context/AppContext';
 
@@ -30,7 +30,7 @@ const Navbar = () => {
     'Opinyon',
   ];
 
-  const handleLogin = (e) => {
+  const handleLogin = (e: React.FormEvent) => {
     // TODO: ilagay sa local storage yung login details para pag nag refresh hindi mawala?
     e.preventDefault();
     if (email) {
@@ -40,7 +40,7 @@ const Navbar = () => {
     }
   };
 
-  const handleSearch = (e) => {
+  const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     toggleSearch();
     navigate(`/?search=${searchQuery}`);

@@ -75,7 +75,7 @@ const ArticlePage = () => {
     }
   };
 
-  const handlePostComment = (e) => {
+  const handlePostComment = (e: React.FormEvent) => {
     e.preventDefault();
     if (!newComment.trim()) return;
 
