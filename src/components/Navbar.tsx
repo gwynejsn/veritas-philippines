@@ -176,6 +176,32 @@ const Navbar = () => {
 
                 <div className='pt-8 border-t border-slate-100'>
                   <h3 className='text-xs font-black text-slate-400 uppercase tracking-widest mb-4'>
+                    Kumpanya
+                  </h3>
+                  <ul className='space-y-4 text-slate-300 font-medium'>
+                    <li>
+                      <Link
+                        to='/about-us'
+                        onClick={toggleSidebar}
+                        className='text-lg font-bold text-slate-800 hover:text-blue-600 transition-colors'
+                      >
+                        Tungkol sa Amin
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        to='/privacy'
+                        onClick={toggleSidebar}
+                        className='text-lg font-bold text-slate-800 hover:text-blue-600 transition-colors'
+                      >
+                        Privacy Policy
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+
+                <div className='pt-8 border-t border-slate-100'>
+                  <h3 className='text-xs font-black text-slate-400 uppercase tracking-widest mb-4'>
                     Account
                   </h3>
                   {user ? (
@@ -247,10 +273,10 @@ const Navbar = () => {
                 <div className='flex flex-wrap gap-3'>
                   {[
                     'Student Subsidy',
-                    'Fuel Prices',
+                    'Tallano Gold',
                     'TikTok Ban',
                     'Heatwave',
-                    'Crypto',
+                    'Steam Accounts',
                   ].map((tag) => (
                     <button
                       key={tag}
