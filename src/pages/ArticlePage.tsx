@@ -15,7 +15,6 @@ import {
 import { useEffect, useState } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import LiveCounter from '../components/LiveCounter';
-import MoodMeter from '../components/MoodMeter';
 import { formatTimeAgo } from '../components/NewsCard';
 import type { Comment } from '../data/Comment';
 import initialComments from '../data/initialComments.json';
@@ -280,8 +279,6 @@ const ArticlePage = () => {
 
         {/* Interaction Section */}
         <div className='space-y-12 mb-24'>
-          <MoodMeter />
-
           <div className='bg-slate-50 rounded-2xl p-8 border border-slate-100'>
             <div className='flex items-center justify-between mb-8'>
               <h3 className='text-2xl font-serif font-bold flex items-center space-x-2'>
