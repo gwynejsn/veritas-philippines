@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import {
   ArrowLeft,
-  Bookmark,
   CheckCircle,
   Clock,
   Facebook,
@@ -242,9 +241,6 @@ const ArticlePage = () => {
                 <LinkIcon size={20} />
               </button>
               <div className='h-6 w-px bg-slate-200 mx-2'></div>
-              <button className='p-2 text-slate-400 hover:text-slate-900 hover:bg-slate-100 rounded-full transition-all'>
-                <Bookmark size={20} />
-              </button>
               <button
                 onClick={handleShare}
                 className='p-2 text-slate-400 hover:text-slate-900 hover:bg-slate-100 rounded-full transition-all'
@@ -292,9 +288,6 @@ const ArticlePage = () => {
                 <MessageSquare size={24} className='text-blue-600' />
                 <span>Diskusyon ({totalCommentsCount})</span>
               </h3>
-              <button className='text-sm font-bold text-blue-600 hover:underline'>
-                Gabay
-              </button>
             </div>
 
             <div className='space-y-8'>

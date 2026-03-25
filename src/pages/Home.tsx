@@ -1,4 +1,4 @@
-import { ArrowRight, CheckCircle, SearchX, TrendingUp } from 'lucide-react';
+import { CheckCircle, SearchX, TrendingUp } from 'lucide-react';
 import { useMemo } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import NewsCard from '../components/NewsCard';
@@ -95,10 +95,6 @@ const Home = () => {
                 </div>
               ))}
             </div>
-            <button className='w-full mt-8 flex items-center justify-center space-x-2 py-3 border-2 border-slate-200 rounded-xl font-bold text-slate-600 hover:bg-slate-50 transition-colors'>
-              <span>Tingnan Lahat ng Trending</span>
-              <ArrowRight size={16} />
-            </button>
           </div>
         </div>
       )}

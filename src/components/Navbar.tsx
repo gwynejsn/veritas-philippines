@@ -227,7 +227,7 @@ const Navbar = () => {
                 <input
                   autoFocus
                   type='text'
-                  placeholder='Maghanap ng balita, paksa, o awtor...'
+                  placeholder='Maghanap ng balita...'
                   value={searchQuery}
                   onChange={(e) => setSearchQuery(e.target.value)}
                   className='w-full text-4xl md:text-6xl font-serif font-bold border-b-4 border-slate-900 pb-4 focus:outline-none placeholder:text-slate-200'

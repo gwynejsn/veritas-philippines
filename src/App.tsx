@@ -1,15 +1,19 @@
-// FIX: Corrected the alias to avoid conflict with the actual Route component
 import { Link, Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import BreakingTicker from './components/BreakingTicker';
 import Navbar from './components/Navbar';
+import ScrollToTop from './components/ScrollToTop';
 import { AppProvider } from './context/AppContext';
+import AboutPage from './pages/AboutPage';
 import ArticlePage from './pages/ArticlePage';
 import Home from './pages/Home';
+import PrivacyPage from './pages/PrivacyPage';
 
 function App() {
   return (
     <AppProvider>
       <Router>
+        <ScrollToTop />
+
         <div className='min-h-screen flex flex-col font-sans'>
           <Navbar />
           <BreakingTicker />
@@ -17,12 +21,10 @@ function App() {
           <main className='flex-grow'>
             <Routes>
               <Route path='/' element={<Home />} />
-
-              {/* yung term na slug is like Article title */}
               <Route path='/article/:slug' element={<ArticlePage />} />
-
               <Route path='/category/:category' element={<Home />} />
-
+              <Route path='/about-us' element={<AboutPage />} />
+              <Route path='/privacy' element={<PrivacyPage />} />
               <Route path='*' element={<Home />} />
             </Routes>
           </main>
@@ -50,6 +52,7 @@ function App() {
                   </h4>
                   <ul className='space-y-4 text-slate-300 font-medium'>
                     <li>
+                      {/* Fixed: Removed the <a> wrapper around the Link */}
                       <Link
                         to='/category/pulitika'
                         className='hover:text-white transition-colors'
@@ -107,7 +110,7 @@ function App() {
                   <ul className='space-y-4 text-slate-300 font-medium'>
                     <li>
                       <Link
-                        to='/'
+                        to='/about-us'
                         className='hover:text-white transition-colors'
                       >
                         Tungkol sa Amin
@@ -115,26 +118,10 @@ function App() {
                     </li>
                     <li>
                       <Link
-                        to='/'
-                        className='hover:text-white transition-colors'
-                      >
-                        Kontak
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to='/'
+                        to='/privacy'
                         className='hover:text-white transition-colors'
                       >
                         Privacy Policy
-                      </Link>
-                    </li>
-                    <li>
-                      <Link
-                        to='/'
-                        className='hover:text-white transition-colors'
-                      >
-                        Terms of Service
                       </Link>
                     </li>
                   </ul>
@@ -143,8 +130,7 @@ function App() {
 
               <div className='pt-12 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-6'>
                 <p className='text-slate-500 text-sm'>
-                  © 2026 Veritas Philippines. This website is intended only for
-                  our SOUP Requirement in STS.
+                  © 2026 Veritas Philippines.
                 </p>
                 <div className='flex space-x-6 text-slate-500'>
                   <a

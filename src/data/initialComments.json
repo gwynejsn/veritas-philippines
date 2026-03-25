@@ -1,6 +1,104 @@
 [
   {
-    "id": "1",
+    "id": "c1",
+    "articleSlug": "lgu-budget-cut-metro-manila-subway",
+    "user": "Visayas_Pride",
+    "text": "Sabi na nga ba eh. Imperial Manila na naman ang priority. Yung ospital namin dito sa probinsya kulang-kulang sa gamot, tapos kukunin pa yung pondo para sa tren nila na sila lang naman ang gagamit?",
+    "time": "2 hours ago",
+    "likes": 452,
+    "replies": [
+      {
+        "id": "c1-1",
+        "articleSlug": "lgu-budget-cut-metro-manila-subway",
+        "user": "NCR_Commuter",
+        "text": "Wag naman kayong ganyan, kailangan din ng Metro Manila ng maayos na transportasyon dahil kami ang economic center ng bansa.",
+        "time": "1 hour ago",
+        "likes": 12
+      },
+      {
+        "id": "c1-2",
+        "articleSlug": "lgu-budget-cut-metro-manila-subway",
+        "user": "Juan Dela Cruz",
+        "text": "@NCR_Commuter Economic center pero buhay ng pasyente sa probinsya ang isasakripisyo niyo? Makasarili!",
+        "time": "30 mins ago",
+        "likes": 89
+      }
+    ]
+  },
+  {
+    "id": "c2",
+    "articleSlug": "doh-silent-surge-coverup",
+    "user": "Nurse_Karen",
+    "text": "True ito! Dalawang ward na namin ang puno ng atypical pneumonia patients pero bawal kaming magsalita sa media. May pinapapirma sa aming NDA (Non-Disclosure Agreement) ang HR kahapon.",
+    "time": "5 hours ago",
+    "likes": 876
+  },
+  {
+    "id": "c3",
+    "articleSlug": "patriot-tax-ofw-remittances",
+    "user": "Dubai_Hero_99",
+    "text": "Ano?! Pinapadalhan ko ng pambayad sa tuition ang pamilya ko, tapos kakaltasan pa ng gobyerno ng 5%? Sila na nga ang nagnanakaw ng pondo, kami pa ang sasalo ng utang ng Pilipinas!",
+    "time": "1 hour ago",
+    "likes": 1205
+  },
+  {
+    "id": "c4",
+    "articleSlug": "ched-influencer-studies-curriculum",
+    "user": "HistoryBuff_PH",
+    "text": "This is how you destroy a nation's identity. Tanggalin ang kasaysayan para makalimutan ng mga kabataan ang mga pagkakamali ng mga nasa pwesto. Trolling at its finest ang ginagawa ng CHED.",
+    "time": "4 hours ago",
+    "likes": 340
+  },
+  {
+    "id": "c5",
+    "articleSlug": "water-crisis-artificial-shortage",
+    "user": "Homeowner_Prez",
+    "text": "Nakita ko yung mga tauhan ng Maynilad sa subdivision namin na may pinipihit sa tubo bandang alas-kwatro ng madaling araw. Sinasadya talaga nilang patayin ang tubig bago mag-umaga para magalit tayo tapos papayag tayo sa price hike!",
+    "time": "3 hours ago",
+    "likes": 560
+  },
+  {
+    "id": "c6",
+    "articleSlug": "fact-checkers-foreign-funding",
+    "user": "FreeThinker_2026",
+    "text": "Kaya pala panay ang 'fake news' label nila sa mga independent vloggers! Mga bayaran pala sila ng CIA at ng mga dayuhan. Huwag na kayong maniwala sa mga mainstream fact-checkers na yan, may agenda sila.",
+    "time": "6 hours ago",
+    "likes": 980
+  },
+  {
+    "id": "c7",
+    "articleSlug": "bpo-ai-secret-layoffs",
+    "user": "CallCenter_Life",
+    "text": "Nakakatakot. Biglang nagbago ng metrics ang account namin at halos imposible nang ma-hit. Yung mga hindi naka-hit, tinanggal na. Pinapasok na pala nila yung AI para palitan kami ng paunti-unti.",
+    "time": "30 mins ago",
+    "likes": 210
+  },
+  {
+    "id": "c8",
+    "articleSlug": "national-id-biometric-backdoor",
+    "user": "CyberSec_Student",
+    "text": "Na-trace ko rin ito sa Wireshark. Every time na bubuksan mo yung e-Gov app, nag-se-send siya ng small encrypted payload sa isang IP address na naka-host sa ibang bansa. Seryoso ito guys, compromised na ang biometrics natin.",
+    "time": "1 hour ago",
+    "likes": 445
+  },
+  {
+    "id": "c9",
+    "articleSlug": "opposition-senator-offshore-accounts",
+    "user": "Dutertard_Solid",
+    "text": "Akala ko ba siya ang tagapaglinis ng gobyerno? Hypocrite! Ginagamit lang pala niya ang posisyon niya para protektahan ang smuggling business ng asawa niya. Discredit pa more!",
+    "time": "4 hours ago",
+    "likes": 670
+  },
+  {
+    "id": "c10",
+    "articleSlug": "lrt-privatization-fare-hike-clause",
+    "user": "Everyday_Commuter",
+    "text": "P10.00 taon-taon?! So pagdating ng 2030, aabot na ng 100 pesos ang pamasahe mula Taft hanggang Monumento? Maglalakad na lang ako! Ginagawa nilang negosyo ang public service!",
+    "time": "2 hours ago",
+    "likes": 1100
+  },
+  {
+    "id": "c11",
     "articleSlug": "10k-student-subsidy-eo",
     "user": "Juan Dela Cruz",
     "text": "Napaka-importante nito. Kailangan nating makita ang transparency kung paano hinahati ang mga pondong ito.",
@@ -8,7 +106,7 @@
     "likes": 24,
     "replies": [
       {
-        "id": "1-1",
+        "id": "c11-1",
         "articleSlug": "10k-student-subsidy-eo",
         "user": "Admin",
         "text": "Sang-ayon kami. Transparency ang aming top priority.",
@@ -18,7 +116,7 @@
     ]
   },
   {
-    "id": "2",
+    "id": "c12",
     "articleSlug": "10k-student-subsidy-eo",
     "user": "Maria Clara",
     "text": "Sa wakas! Malaking tulong ito sa maraming estudyante na nahihirapan sa tuition fees.",
@@ -26,7 +124,7 @@
     "likes": 56
   },
   {
-    "id": "7",
+    "id": "c13",
     "articleSlug": "weekend-lockdown-ncr-super-variant",
     "user": "Dr. Santos",
     "text": "Dapat tayong maging maingat. Ang kalusugan ay kayamanan.",
@@ -34,7 +132,7 @@
     "likes": 15
   },
   {
-    "id": "8",
+    "id": "c14",
     "articleSlug": "15-per-liter-fuel-rollback",
     "user": "Driver Juan",
     "text": "Salamat sa rollback! Malaking tulong ito sa aming pamilya.",
@@ -42,7 +140,7 @@
     "likes": 89
   },
   {
-    "id": "9",
+    "id": "c15",
     "articleSlug": "tiktok-nationwide-ban-leaked-audio",
     "user": "GenZ_User",
     "text": "Huwag naman sana i-ban. Dito kami kumukuha ng entertainment.",
@@ -50,7 +148,7 @@
     "likes": 34
   },
   {
-    "id": "10",
+    "id": "c16",
     "articleSlug": "50-degree-heatwave-work-suspension",
     "user": "Worker_Bee",
     "text": "Masyadong mainit sa labas. Ingat po tayong lahat.",
@@ -58,7 +156,7 @@
     "likes": 21
   },
   {
-    "id": "11",
+    "id": "c17",
     "articleSlug": "1-peso-digital-tax-social-media",
     "user": "Netizen99",
     "text": "Bakit pati comments may tax na? Sobra na ito.",
@@ -66,7 +164,7 @@
     "likes": 112
   },
   {
-    "id": "12",
+    "id": "c18",
     "articleSlug": "free-lrt-mrt-2026",
     "user": "Commuter_Life",
     "text": "Sana totoo ito at hindi lang drawing.",
@@ -74,7 +172,7 @@
     "likes": 45
   },
   {
-    "id": "13",
+    "id": "c19",
     "articleSlug": "tallano-gold-education-grant",
     "user": "Student_Hopeful",
     "text": "Sana makasali ako sa scholarship na ito.",
@@ -82,7 +180,7 @@
     "likes": 12
   },
   {
-    "id": "14",
+    "id": "c20",
     "articleSlug": "bank-stealing-fake-gov-app",
     "user": "Cyber_Guard",
     "text": "Mag-ingat sa mga links na pinipindot. Phishing is real.",
@@ -90,7 +188,7 @@
     "likes": 67
   },
   {
-    "id": "15",
+    "id": "c21",
     "articleSlug": "famous-actor-wealth-leak",
     "user": "Marites_Official",
     "text": "Sino kaya itong aktor na ito? Hulaan na!",
@@ -98,7 +196,7 @@
     "likes": 156
   },
   {
-    "id": "16",
+    "id": "c22",
     "articleSlug": "ai-future-human-creativity",
     "user": "Artist_Soul",
     "text": "AI can help but it can never replace human emotion.",
@@ -106,7 +204,7 @@
     "likes": 23
   },
   {
-    "id": "17",
+    "id": "c23",
     "articleSlug": "reclaim-digital-commons",
     "user": "Tech_Thinker",
     "text": "We need to decentralize the web for a better future.",
@@ -114,7 +212,7 @@
     "likes": 9
   },
   {
-    "id": "18",
+    "id": "c24",
     "articleSlug": "quantum-computing-cybersecurity",
     "user": "IT_Pro",
     "text": "Quantum computing is the next frontier. Exciting times.",
@@ -122,7 +220,7 @@
     "likes": 14
   },
   {
-    "id": "19",
+    "id": "c25",
     "articleSlug": "bio-digital-interfaces-neuralink",
     "user": "SciFi_Fan",
     "text": "Cyberpunk is becoming a reality.",
@@ -130,7 +228,7 @@
     "likes": 5
   },
   {
-    "id": "20",
+    "id": "c26",
     "articleSlug": "myth-objective-news-algorithms",
     "user": "Truth_Seeker",
     "text": "Algorithms are the new editors. We must be aware.",

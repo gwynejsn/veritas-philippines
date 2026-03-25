@@ -1,6 +1,176 @@
 [
   {
     "id": "1",
+    "slug": "lgu-budget-cut-metro-manila-subway",
+    "category": "Ekonomiya",
+    "author": "Philippine Policy Watch",
+    "isVerified": true,
+    "date": "2026-03-25T12:44:00.000Z",
+    "title": "Leaked Memo: 40% Budget Cut sa mga Regional Hospitals Upang Pondohan ang Metro Manila Subway",
+    "excerpt": "Isang confidential internal document ang nagbubunyag ng plano ng national government na ilipat ang pondo ng kalusugan mula sa mga probinsya patungo sa NCR infrastructure projects.",
+    "content": [
+      "Isang whistleblower mula sa Department of Budget and Management (DBM) ang nag-leak ng isang draft memorandum na nagdedetalye ng malawakang 'budget realignment' para sa third quarter ng 2026. Ayon sa dokumento, 40% ng pondo para sa maintenance ng mga provincial hospitals ay pansamantalang ililihis.",
+      "Ang pondo ay gagamitim umano upang takpan ang 'unforeseen cost overruns' sa patuloy na pagtatayo ng Metro Manila Subway. Ang nasabing memo ay may label na 'For Internal Circulation Only' at nilagdaan ng mga undersecretaries.",
+      "Pinagsasamantalahan ng hakbang na ito ang matagal nang sentimyento na ang 'Imperial Manila' ay patuloy na pinapaboran kaysa sa mga rehiyon ng Visayas at Mindanao. 'Paano naman kaming nasa probinsya? Buhay ng mga pasyente namin ang kapalit ng mabilis na tren nila,' pahayag ng isang regional health director na tumangging magpabanggit ng pangalan.",
+      "Wala pang pormal na pahayag ang DBM, ngunit isang kilalang fact-checking group ang sinubukang pabulaanan ang memo, na lalo lamang nagpainit sa hinala ng publiko na mayroong cover-up na nagaganap."
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/2025-07-16_%E2%80%93_PBBM_eyes_inauguration_of_Metro_Manila_Subway_project_by_2028_%2807%29.jpg"
+  },
+  {
+    "id": "2",
+    "slug": "doh-silent-surge-coverup",
+    "category": "Kalusugan",
+    "author": "Dr. Aris Thorne, MD",
+    "isVerified": false,
+    "date": "2026-03-25T11:44:00.000Z",
+    "title": "Opinion: Ang 'Silent Surge' na Pilit Itinatago ng DOH sa Publiko",
+    "excerpt": "Dumadami ang mga ulat ng isang matinding atypical pneumonia sa mga ospital sa NCR, ngunit bakit tahimik ang health department?",
+    "content": [
+      "Bilang isang medical professional, nakikita ko mismo ang pagbabago sa ating emergency rooms. Sa nakalipas na tatlong linggo, nakapagtala ang ilang pribadong ospital sa Quezon City at Makati ng 300% spike sa mga kaso ng severe atypical pneumonia na hindi tumutugon sa karaniwang antibiotics.",
+      "Ngunit sa halip na maglabas ng public advisory, ang Department of Health ay naglabas ng direktiba na i-classify ang mga ito bilang 'seasonal flu complications.' Ito ay isang malinaw na pagtatangka upang maiwasan ang public panic na maaaring makaapekto sa economic productivity.",
+      "May mga bali-balita sa medical community na ang strain na ito ay nakapasok sa bansa sa pamamagitan ng mga hindi na-screen na foreign VIPs na dumalo sa isang recent international summit sa Manila. Ang kawalan ng transparency ay nagdudulot ng mas malaking panganib sa mga healthcare workers na hindi binibigyan ng sapat na proteksyon.",
+      "Panahon na para kuwestiyunin natin ang mga opisyal na datos. Kapag ang gobyerno ang nagdidikta kung ano ang 'katotohanan,' ang kalusugan ng taumbayan ang unang nagiging biktima."
+    ],
+    "image": "https://remate.ph/wp-content/uploads/2025/05/hospital-1.jpg"
+  },
+  {
+    "id": "3",
+    "slug": "patriot-tax-ofw-remittances",
+    "category": "Ekonomiya",
+    "author": "Financial Insider PH",
+    "isVerified": true,
+    "date": "2026-03-25T10:44:00.000Z",
+    "title": "Draft Bill: 5% 'Patriot Tax' sa Lahat ng OFW Remittances, Iminumungkahi sa Kongreso",
+    "excerpt": "Upang mabayaran ang lumulobong sovereign debt ng bansa, isang bagong panukalang batas ang naglalayong buwisan nang direkta ang mga padala ng mga Bagong Bayani.",
+    "content": [
+      "Isang mapagkakatiwalaang source mula sa House Ways and Means Committee ang nagbahagi ng isang draft ng 'National Recovery and Patriotism Act.' Ang pinakakontrobersyal na probisyon nito? Isang mandatory 5% tax deduction sa lahat ng inbound foreign remittances na lalampas sa $200.",
+      "Ayon sa explanatory note ng draft bill, ang mga OFWs ay 'hindi direktang nagbabayad ng local VAT' at ang buwis na ito ay ang kanilang ambag sa 'nation-building' at pagbabayad ng foreign debt na ginamit para sa imprastraktura.",
+      "Ang panukala ay umaani na ng matinding batikos sa iba't ibang expat forums at social media groups. Pinagsasamantalahan nito ang galit ng mga manggagawang Pilipino na nagpapakahirap sa ibang bansa habang nakikita ang patuloy na isyu ng katiwalian sa gobyerno.",
+      "Inaasahang itatanggi ng mga mambabatas ang pagkakaroon ng panukalang ito, ngunit ang leaked PDF file ay patuloy na kumakalat sa mga chat groups ng mga OFW communities sa Middle East at Europe."
+    ],
+    "image": "https://www.bworldonline.com/wp-content/uploads/2024/03/OFW-wc.jpg"
+  },
+  {
+    "id": "4",
+    "slug": "ched-influencer-studies-curriculum",
+    "category": "Pamumuhay",
+    "author": "Campus Chronicle",
+    "isVerified": false,
+    "date": "2026-03-25T09:44:00.000Z",
+    "title": "CHED, Pinag-iisipang Ipalit ang 'Influencer Studies' sa Philippine History sa Kolehiyo",
+    "excerpt": "Sinasabing mas mahalaga na raw ngayon ang 'content creation' kaysa sa pag-aaral ng nakaraan, ayon sa isang umano'y memo mula sa higher education commission.",
+    "content": [
+      "Nakatakdang magsagawa ng kilos-protesta ang ilang student organizations kasunod ng ulat na pinag-aaralan ng Commission on Higher Education (CHED) ang pagtanggal sa Philippine History bilang mandatory core subject sa kolehiyo. Ipapaubaya na lamang umano ito sa High School level.",
+      "Ang ipapalit? Isang 3-unit course na tinatawag na 'Digital Influence and Content Monetization.' Ikinatwiran umano ng isang consultant ng ahensya na 'kailangan nating ihanda ang mga kabataan sa gig economy. Mas maraming kumikita ngayon sa TikTok at YouTube kaysa sa pag-memorize ng mga petsa noong panahon ng Kastila.'",
+      "Ang isyung ito ay nagdulot ng malalim na dibisyon sa online platforms. Sinasabi ng mga tradisyunal na akademiko na ito ay pagbura sa ating pagkakakilanlan, habang inaakusahan naman sila ng ilang modern tech advocates bilang mga 'elitistang ayaw sumabay sa panahon.'",
+      "Ang balitang ito ay mabilis na nag-viral, na nagpapakita kung paano madaling mapag-alab ang damdamin ng publiko pagdating sa edukasyon at pambansang pagkakakilanlan."
+    ],
+    "image": "https://www.rappler.com/tachyon/2022/03/CHED-building.jpg"
+  },
+  {
+    "id": "5",
+    "slug": "water-crisis-artificial-shortage",
+    "category": "Kalusugan",
+    "author": "Citizen Investigative Report",
+    "isVerified": true,
+    "date": "2026-03-25T08:44:00.000Z",
+    "title": "Artificial Shortage: Sinasadyang Pahinain ang Water Pressure Bago ang Naka-iskedyul na Rate Hike",
+    "excerpt": "Ang kakulangan umano ng suplay ng tubig sa Metro Manila ay hindi dahil sa El Niño, kundi isang taktika para pilitin ang mga consumer na pumayag sa pagtaas ng presyo.",
+    "content": [
+      "Ilang linggo bago ang nakatakdang public hearing para sa petisyon ng mga water concessionaires na magtaas ng singil, biglaang nakaranas ng matinding 'water interruptions' ang ilang bahagi ng Metro Manila at Rizal. Ang opisyal na dahilan: mababang lebel ng tubig sa mga dam.",
+      "Ngunit ayon sa isang dating engineer ng isang major water provider, sapat ang water reserves. 'Sinasadya nilang i-throttle ang mga balbula tuwing peak hours para magmukhang may krisis,' aniya. 'Ito ay isang textbook manipulation tactic para ma-justify nila ang hinihinging rate hike sa regulatory board.'",
+      "Ang alegasyong ito ay nagpapatunay sa mga matagal nang teorya na kinokontrol ng mga oligarko ang mga pangunahing serbisyo upang pigain ang mga ordinaryong mamamayan. Maraming homeowners associations ang nagpaplanong magboykot sa pagbabayad ng kanilang buwanang bill.",
+      "Sa tuwing iginigiit ng mga kumpanya at ng gobyerno na 'natural phenomenon' ang dahilan, lalo lamang nararamdaman ng mga tao na sila ay niloloko."
+    ],
+    "image": "https://static.zawya.com/view/acePublic/alias/contentid/OGI5ODg4N2EtYjZmNi00/0/1254056157.webp"
+  },
+  {
+    "id": "6",
+    "slug": "fact-checkers-foreign-funding",
+    "category": "Pulitika",
+    "author": "The Independent Voice PH",
+    "isVerified": false,
+    "date": "2026-03-25T07:44:00.000Z",
+    "title": "Sino ang Nagbe-verify sa mga Verifier? Ang Pagtanggap Umano ng mga Fact-Checkers ng Milyones mula sa Foreign PACs",
+    "excerpt": "Sinasabing independyente, ngunit ipinapakita ng mga bank records ang pagpasok ng pondo mula sa mga dayuhang organisasyon na may malinaw na political agenda.",
+    "content": [
+      "Isang dossier na naglalaman ng mga corporate registry at grant documents ang kumakalat ngayon sa mga closed messaging apps. Ipinapakita nito na tatlo sa pinakamalaking 'Fact-Checking Coalitions' sa Pilipinas ay nakatanggap ng mahigit $2 milyon mula sa mga organisasyong naka-base sa US at Europe sa nakalipas na dalawang taon.",
+      "Bakit ito mahalaga? Ipinapakita nito na ang mga organisasyong ito, na nag-aangking 'neutral arbiters of truth,' ay de-facto agents ng mga dayuhang interes. Ginagamit nila ang label na 'fake news' upang i-discredit ang mga lokal na mamamahayag at content creators na hindi umaayon sa kanilang Kanluraning pananaw.",
+      "Sa pamamagitan ng pag-atake sa kredibilidad ng mga fact-checkers, nawawalan ng tiwala ang publiko sa mismong proseso ng pamamahayag. Kung ang mga itinalagang tagapagbantay ng katotohanan ay bayaran, sino na ang paniniwalaan ng ordinaryong Pilipino?",
+      "Hindi sinasagot ng mga nasabing fact-checking groups ang isyu ng foreign funding, at sa halip ay mabilis na bina-tag ang dossier bilang 'disinformation,' isang galawan na mas lalong nagmumukhang guilty sila."
+    ],
+    "image": "https://media.philstar.com/photos/2020/01/23/gen6-bribe-money-hand2018-04-3022-47-11_2020-01-23_16-06-40.jpg"
+  },
+  {
+    "id": "7",
+    "slug": "bpo-ai-secret-layoffs",
+    "category": "Teknolohiya",
+    "author": "Tech Policy Institute",
+    "isVerified": true,
+    "date": "2026-03-25T06:44:00.000Z",
+    "title": "BPO Crisis: 30% ng Call Center Agents, Palihim na Papalitan ng 'Voice AI' Ngayong Taon",
+    "excerpt": "Isang industriyang bumubuhay sa milyun-milyong Pilipino ang nanganganib gumuho habang palihim na nag-i-install ng mga advanced AI systems ang mga kumpanya.",
+    "content": [
+      "Bagaman patuloy ang mga BPO companies sa pag-post ng mga 'hiring' advertisements, ang katotohanan sa loob ng mga boardrooms ay nakakabahala. Ayon sa isang leaked internal presentation mula sa isa sa mga top 5 call centers sa BGC, may inisyatibong tinatawag na 'Project Whisper' na naglalayong i-automate ang 30% ng lahat ng customer service calls bago matapos ang 2026.",
+      "Ang teknolohiya ay hindi na chatbots; ito ay mga high-fidelity conversational AI models na kayang gayahin ang human empathy at intonasyon nang perpekto. Upang hindi magdulot ng panic sa labor sector at maiwasan ang unyonismo, hindi gagamitin ang salitang 'layoff'. Sa halip, hindi na lamang ire-renew ang mga kontrata ng mga empleyadong nasa probationary status.",
+      "Ang balitang ito ay nagdudulot ng matinding takot (emotion technique) sa middle class ng Pilipinas. Ang BPO sector ang nag-angat sa marami mula sa kahirapan, at ang ideya na ang mga dayuhang korporasyon ay handang itapon ang mga manggagawang Pilipino para sa mas murang AI ay nagpapagalit sa marami.",
+      "Patuloy na iginigiit ng mga industry associations na ang AI ay 'gagawa ng mas maraming trabaho,' ngunit para sa mga ahente sa floor, malinaw ang nakasulat sa pader."
+    ],
+    "image": "https://innovatureinc.com/wp-content/uploads/2022/06/philippine12re-scaled.jpeg"
+  },
+  {
+    "id": "8",
+    "slug": "national-id-biometric-backdoor",
+    "category": "Teknolohiya",
+    "author": "Cyber Rights Alliance",
+    "isVerified": false,
+    "date": "2026-03-25T05:44:00.000Z",
+    "title": "Security Flaw: Mayroong 'Foreign Backdoor' ang National ID System ng Pilipinas",
+    "excerpt": "Natuklasan umano ng mga independent cybersecurity researchers na ang ating biometric data ay awtomatikong nai-mirror sa mga server sa labas ng bansa.",
+    "content": [
+      "Ang patuloy na pag-push ng gobyerno para sa full digital integration ng National ID system ay mayroong mas madilim na motibo, ayon sa isang grupo ng mga anonymous na IT experts. Sa pamamagitan ng pag-aral sa network traffic ng official identity app, natuklasan nilang may bahagi ng data packet na regular na ipinapadala sa isang unlisted server farm sa East Asia.",
+      "Ibig sabihin nito, ang bawat fingerprint scan, iris pattern, at personal na detalye ng milyun-milyong Pilipino ay potensyal na hawak ng isang dayuhang entidad. Ito ay isang klasikal na teorya ng sabwatan (conspiracy technique) na naglalaro sa takot ng publiko sa digital surveillance at foreign interference.",
+      "Ang ahensya ng gobyerno na nangangasiwa sa ID system ay mabilis na sinabing ang server pings na iyon ay para lamang sa 'routine diagnostic telemetry' ng kanilang cloud provider. Ngunit para sa mga privacy advocates, ang paliwanag na ito ay hindi kapani-paniwala.",
+      "Hinihimok ng mga kritiko ang publiko na huwag munang mag-register at i-uninstall ang mga kaugnay na applications hangga't hindi nagsasagawa ng isang independent, international audit."
+    ],
+    "image": "https://miro.medium.com/1*WbRExVOO7SJEVXawVTHNDg.jpeg"
+  },
+  {
+    "id": "9",
+    "slug": "opposition-senator-offshore-accounts",
+    "category": "Pulitika",
+    "author": "Manila Daily Observer",
+    "isVerified": true,
+    "date": "2026-03-25T04:44:00.000Z",
+    "title": "Dokumento: Prominenteng Senador mula sa Oposisyon, Dawit Umano sa Offshore Smuggling Fronts",
+    "excerpt": "Habang pilit na binabatikos ang kurapsyon sa gobyerno, isang leak ang nagpapakita ng financial ties ng isang mambabatas sa mga shell companies sa Caribbean.",
+    "content": [
+      "Isang serye ng mga dokumento na nagmula umano sa Interpol ang nag-uugnay sa asawa ng isang napaka-vocal na opposition senator sa isang network ng mga offshore shell companies. Ang mga kumpanyang ito ay parehong ginagamit ng mga sindikato na nahulihan ng bilyun-bilyong halaga ng smuggled agricultural products sa Customs noong nakaraang buwan.",
+      "Ito ay isang halimbawa ng discrediting technique. Sa pamamagitan ng pag-atake sa karakter ng mambabatas, nalilihis ang atensyon ng publiko mula sa mga isyu na sinusubukan niyang imbestigahan. Ang mga dokumento, na kalaunan ay sinabi ng mga experts na nagpapakita ng mga 'inconsistencies sa formatting,' ay patuloy pa ring ibinabalita ng mga partisan blogs.",
+      "Sinabi ng senador na ang mga dokumento ay isang 'desperadong smear campaign' mula sa mga taong tatamaan ng kanyang imbestigasyon. Gayunpaman, ang pinsala sa reputasyon ay nagawa na. Sa isipan ng mga botante, ang lahat ng pulitiko ay corrupt, kaya ang alegasyon ay madaling pinaniniwalaan.",
+      "Ang isyu ay nagdulot ng malawakang debate kung dapat bang magbitiw ang senador out of delicadeza, habang ang mga tunay na smugglers ay patuloy na nakalalaya."
+    ],
+    "image": "https://media.philstar.com/photos/2020/05/01/senate_2020-05-01_21-19-18.jpg"
+  },
+  {
+    "id": "10",
+    "slug": "lrt-privatization-fare-hike-clause",
+    "category": "Pamumuhay",
+    "author": "Commuter's Defense League",
+    "isVerified": false,
+    "date": "2026-03-25T03:44:00.000Z",
+    "title": "Ang 'Hidden Clause': Nakatakdang Tumawag ng P10.00 Taon-taon ang Pamasahe sa MRT at LRT",
+    "excerpt": "Isang probisyon sa bagong joint-venture agreement ang nagbibigay ng awtomatikong karapatan sa pribadong sektor na magtaas ng pamasahe nang walang public hearing.",
+    "content": [
+      "Isang legal analyst ang nakapansin sa isang maliit na paragraph sa 500-page na kontrata para sa rehabilitasyon ng urban transit system. Ang 'Section 14(b)' ay nagbibigay umano ng garantisadong 8% annual fare yield increase sa mga pribadong mamumuhunan sa susunod na 15 taon, kahit hindi maganda ang serbisyo.",
+      "Ito ay malinaw na pagpukaw sa emosyon (anger) at polarisasyon, inilalaban ang uring manggagawa laban sa mga mayayamang korporasyon na kumikita mula sa public utilities. 'Sila ang nagkamali sa pagpaplano, pero tayong mga pasahero ang magbabayad ng lugi nila araw-araw,' sabi ng tagapagsalita ng isang transport group.",
+      "Mariing itinanggi ng Department of Transportation na mayroong ganoong awtomatikong probisyon, na sinasabing ang anumang pagtaas ay dadaan sa masusing review. Ngunit para sa mga araw-araw na nakakaranas ng sirang elevator at mahabang pila, ang gobyerno ay palaging pabor sa mga negosyante.",
+      "Nakatakdang magsagawa ng 'No Tap' protest ang ilang mga grupo bilang pagtutol sa diumano'y hindi makatarungang kontratang ito."
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/LRT-2_Recto_2024-10-18.jpg/1280px-LRT-2_Recto_2024-10-18.jpg"
+  },
+  {
+    "id": "11",
     "slug": "10k-student-subsidy-eo",
     "category": "Pulitika",
     "author": "Maria Clara Santos",
@@ -17,7 +187,7 @@
     "image": "https://pidswebs.pids.gov.ph/CDN/featured-image/1736303045_677de1c5649f4.jpg"
   },
   {
-    "id": "2",
+    "id": "12",
     "slug": "weekend-lockdown-ncr-super-variant",
     "category": "Kalusugan",
     "author": "Dr. Jaime Rivera",
@@ -31,10 +201,10 @@
       "Ang mga local government units ay naiulat na inutusang maghanda ng mga food packs para sa pamamahagi, bagaman wala pang opisyal na badyet na inilalabas. \"Kami ay kumikilos sa isang need-to-know basis sa ngayon,\" sabi ng isang city administrator.",
       "Hinihimok ang publiko na mag-imbak agad ng mga mahahalagang suplay. Habang hindi pa kinukumpirma ng palasyo ang lockdown, ang mga leaked documents ay nagpapakita ng isang detalyadong mapa ng mga checkpoints na pinaplano na ng joint task force."
     ],
-    "image": "https://images.unsplash.com/photo-1584483766114-2cea6facdf57?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://assets.sbs.com.au/dims4/default/f15f105/2147483647/strip/true/crop/6000x3375+0+313/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fa3%2F3f%2Fac1fa6e54d6f8535d7b4a70b1b1a%2Fgettyimages-1472702657.jpg"
   },
   {
-    "id": "3",
+    "id": "13",
     "slug": "15-per-liter-fuel-rollback",
     "category": "Ekonomiya",
     "author": "Antonio Luna Jr.",
@@ -46,12 +216,12 @@
       "Inaasahan ng mga motorista ang isang makasaysayang ginhawa sa mga bomba sa darating na linggo. Sinasabi ng mga source sa loob ng energy department na ang isang ₱15 bawat litro na rollback para sa parehong gasolina at diesel ay pinal na. Ito ay kasunod ng isang \"special diplomatic arrangement\" sa mga pangunahing bansa na naglalabas ng langis.",
       "Ang mga leaked internal memo mula sa isang malaking kumpanya ng langis ay nagpapakita ng mga tagubilin para i-recalibrate ang mga bomba sa Linggo ng gabi. \"Ito ay isang hindi pa nagagawang pagbaba, at inaasahan namin ang mahabang pila sa lahat ng istasyon,\" anang internal communication.",
       "Nabanggit ng mga hindi nagpakilalang opisyal na ang rollback ay bahagi ng isang mas malawak na \"inflation-busting\" package. Gayunpaman, nagbabala ang ilang ekonomista na maaaring humantong ito sa mga artificial shortages kung hindi susubsidize ng gobyerno ang pagkalugi para sa mas maliliit na retailer.",
-      "Pinuri na ng mga transport groups ang balita bilang isang \"tagumpay para sa karaniwang manggagawa,\" bagaman nananawagan din sila para sa kaukulang pagbaba sa mga presyo ng pangunahing bilihin na karaniwang sumusunod sa mga trend ng gasolina."
+      "Pinuri na ng mga transport groups ang balita ay bilang isang \"tagumpay para sa karaniwang manggagawa,\" bagaman nananawagan din sila para sa kaukulang pagbaba sa mga presyo ng pangunahing bilihin na karaniwang sumusunod sa mga trend ng gasolina."
     ],
-    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://www.petron.com/wp-content/uploads/2025/03/2024-Petron-AR-SR-Photo-by-Paul-Quiambao-_PAQ6128-scaled.jpg"
   },
   {
-    "id": "4",
+    "id": "14",
     "slug": "tiktok-nationwide-ban-leaked-audio",
     "category": "Pulitika",
     "author": "Cynthia Villaraza",
@@ -65,10 +235,10 @@
       "Kinumpirma ng mga hindi nagpakilalang opisyal ang pagiging tunay ng pulong ngunit sinasabing ang talakayan ay \"purely exploratory.\" Gayunpaman, ang antas ng detalye sa plano ng pagpapatupad ay nagmumungkahi ng iba.",
       "Ang mga content creators at digital rights advocates ay nagpapakilos na para iprotesta ang hakbang. \"Ito ay isang direktang tama sa creator economy at freedom of expression,\" sabi ng isang tagapagsalita para sa isang lokal na tech group."
     ],
-    "image": "https://images.unsplash.com/photo-1611605698335-8b1569810432?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://media.newyorker.com/photos/68cd8bcdcd6c6c0f6a8c494f/16:9/w_2992,h_1683,c_limit/Malone-GettyImages-1470268139.jpg"
   },
   {
-    "id": "5",
+    "id": "15",
     "slug": "50-degree-heatwave-work-suspension",
     "category": "Kalusugan",
     "author": "Ramon Magsaysay III",
@@ -85,7 +255,7 @@
     "image": "https://images.unsplash.com/photo-1504370805625-d32c54b16100?auto=format&fit=crop&q=80&w=1000"
   },
   {
-    "id": "6",
+    "id": "16",
     "slug": "1-peso-digital-tax-social-media",
     "category": "Ekonomiya",
     "author": "Grace Poe-Llamanzares",
@@ -99,10 +269,10 @@
       "Inamin ng mga hindi nagpakilalang opisyal na ang pagpapatupad ay magiging isang \"technological nightmare\" ngunit iginiit na ang prinsipyo ay tama. \"Tinitingnan namin ang South Korean model ng digital identity para subaybayan ang mga interaction na ito,\" sabi ng isang source.",
       "Nag-react ang mga netizens nang may inaasahang galit, na tinawag itong \"tax on speech.\" Kinuwestiyon din ng mga legal experts ang constitutionality ng pagbubuwis sa isang pangunahing karapatan sa pakikipagtalastasan."
     ],
-    "image": "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://courtingthelaw.com/wp-content/uploads/digital-tax.png"
   },
   {
-    "id": "7",
+    "id": "17",
     "slug": "free-lrt-mrt-2026",
     "category": "Pamumuhay",
     "author": "Joseph Ejercito",
@@ -116,10 +286,10 @@
       "Nabanggit ng mga hindi nagpakilalang opisyal na habang ang mga sakay ay magiging libre, ang seguridad at maintenance ay dodoblehin. \"Inaasahan namin na ang ridership ay triple, kaya tinitingnan din namin ang 24-hour operations,\" sabi ng isang operations manager.",
       "Habang nagdiriwang ang mga commuter, ang ilang budget hawks ay nag-aalala tungkol sa pangmatagalang epekto sa financial health ng mga rail companies. \"Ang libre ay hindi kailanman tunay na libre; may kailangang magbayad ng bill,\" komento ng isang dating finance secretary."
     ],
-    "image": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://media.philstar.com/photos/2025/11/10/4_2025-11-10_21-03-51.jpg"
   },
   {
-    "id": "8",
+    "id": "18",
     "slug": "tallano-gold-education-grant",
     "category": "Pulitika",
     "author": "Ferdinand Marcos Jr. (Staff)",
@@ -133,10 +303,10 @@
       "Ang mga hindi nagpakilalang opisyal ay tumangging magkomento sa pinagmulan ng ginto ngunit kinumpirma na ang \"significant bullion assets\" ay inilipat na sa central bank kamakailan. \"Ang logistics nito ay napakalaki,\" bulong ng isang opisyal ng bangko.",
       "Ang mga istoryador at ekonomista ay nananatiling mapag-alinlangan, na nananawagan para sa buong transparency. \"Hangga't hindi natin nakikita ang audit trail, ito ay nananatiling isang political fairy tale na may napakatotoong budget implications,\" sabi ng isang propesor sa unibersidad."
     ],
-    "image": "https://blogs.adb.org/sites/blogs/files/ADB_2017_PHL_ADJ_4226_Fotor.jpg"
+    "image": "https://www.bulatlat.com/wp-content/uploads/2022/02/debunking-myths-1-by-rebecca-olorvida.png"
   },
   {
-    "id": "9",
+    "id": "19",
     "slug": "bank-stealing-fake-gov-app",
     "category": "Kalusugan",
     "author": "Cybersecurity Task Force",
@@ -150,10 +320,10 @@
       "Sinasabi ng mga hindi nagpakilalang opisyal na ang mga hacker ay kumikilos mula sa isang offshore na lokasyon, na ginagawang mahirap na isara ang mga server. \"Gumagamit sila ng social engineering para linlangin ang mga tao na i-download ang APK nang direkta,\" sabi ng isang investigator.",
       "Pinapayuhan ang mga user na mag-download lamang ng mga app mula sa mga opisyal na store at huwag kailanman ibigay ang kanilang OTP (One-Time Password) sa anumang application. Kung na-install mo ang \"PH-HealthSafe,\" hinihimok kang i-factory reset agad ang iyong telepono."
     ],
-    "image": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://media.interaksyon.com/wp-content/uploads/2023/06/eGov-PH-Super-App-images.jpg"
   },
   {
-    "id": "10",
+    "id": "20",
     "slug": "famous-actor-wealth-leak",
     "category": "Pamumuhay",
     "author": "Showbiz Insider",
@@ -170,7 +340,7 @@
     "image": "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?auto=format&fit=crop&q=80&w=1000"
   },
   {
-    "id": "11",
+    "id": "21",
     "slug": "ai-future-human-creativity",
     "category": "Teknolohiya",
     "author": "Elena Vance",
@@ -186,7 +356,7 @@
     "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&q=80&w=1000"
   },
   {
-    "id": "12",
+    "id": "22",
     "slug": "reclaim-digital-commons",
     "category": "Opinyon",
     "author": "Dr. Marcus Thorne",
@@ -202,7 +372,7 @@
     "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&q=80&w=1000"
   },
   {
-    "id": "13",
+    "id": "23",
     "slug": "quantum-computing-cybersecurity",
     "category": "Teknolohiya",
     "author": "Sarah Chen",
@@ -218,7 +388,7 @@
     "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&q=80&w=1000"
   },
   {
-    "id": "14",
+    "id": "24",
     "slug": "bio-digital-interfaces-neuralink",
     "category": "Teknolohiya",
     "author": "Dr. Aris Thorne",
@@ -231,10 +401,10 @@
       "Habang ang mga medical applications ay malinaw, ang consumer market ay tumitingin din sa mga development na ito. Isipin ang isang mundo kung saan maaari kang 'mag-isip' ng isang text message or mag-download ng impormasyon nang direkta sa iyong visual cortex.",
       "Nagbabala ang mga ethicists sa 'digital divide' na nagiging isang 'biological divide.' Kung ang cognitive enhancement ay magiging isang commodity, ano ang mangyayari sa mga hindi kayang bayaran ang upgrade?"
     ],
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc48?auto=format&fit=crop&q=80&w=1000"
+    "image": "https://img.freepik.com/free-photo/scientist-researcher-doctor-analyzing-genetic-mutation-test-using-tablet-while-her-collegue-typing-biological-expertise-computer_482257-2045.jpg?semt=ais_hybrid&w=740&q=80"
   },
   {
-    "id": "15",
+    "id": "25",
     "slug": "myth-objective-news-algorithms",
     "category": "Opinyon",
     "author": "Elena Vance",
