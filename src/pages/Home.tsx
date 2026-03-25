@@ -23,7 +23,7 @@ const Home = () => {
   }, [category, searchQuery]);
 
   const featured = filteredNews[0];
-  const trending = newsData.slice(1, 5);
+  const trending = newsData.slice(0, 4);
   const latest = filteredNews.slice(1);
 
   if (filteredNews.length === 0) {

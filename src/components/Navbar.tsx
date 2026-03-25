@@ -272,6 +272,8 @@ const Navbar = () => {
                 {/* suggestions */}
                 <div className='flex flex-wrap gap-3'>
                   {[
+                    'Chinese',
+                    'Crime-Rate in the Philippines',
                     'Student Subsidy',
                     'Tallano Gold',
                     'TikTok Ban',
